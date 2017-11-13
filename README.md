@@ -1,6 +1,5 @@
-# nasa-search
+Vue Firebase
 
-> A Vue.js project
 
 ## Build Setup
 
